@@ -1,5 +1,5 @@
 <h1 align="center">Namira Faiz says Hello world!</h1>
-<h3 align="center">I am a final year student pursuing bachelors in IT. After completing couple of projects on Frontend I am clearing my path to be Full stack web developer.</h3>
+<h3 align="center">I am a final year student pursuing bachelors in IT. After completing a couple of projects on Frontend, I am clearing my path to be a full-stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namirafaiz&label=Profile%20views&color=0e75b6&style=flat" alt="namirafaiz" /> </p>
 
